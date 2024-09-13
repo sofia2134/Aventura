@@ -1,0 +1,33 @@
+body{
+   background-color: blueviolet;
+color: violet;
+
+display: flex;
+justify-content: space-around;
+align-items: center;
+height: 10%;
+margin: 20px;
+}
+button{
+background-color: palevioletred;
+color: pink;
+width: flex;
+
+}
+
+passo{
+    display: none;
+}
+
+passo.ativo{
+    display: block;
+}
+
+main{
+    text-align: justify;
+}
+img{
+max-width: 400px;
+max-height: 300px;
+margin-left: 400px;
+}
